@@ -17,4 +17,3 @@ The report covers the full process, including:
 ### Skills Demonstrated
 ![Steganography](https://img.shields.io/badge/Steganography-7D3C98?style=for-the-badge)
 ![Linux CLI](https://img.shields.io/badge/Linux_CLI-555?style=for-the-badge&logo=linux&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-17A589?style=for-the-badge)
