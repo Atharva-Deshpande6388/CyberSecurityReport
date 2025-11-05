@@ -1,6 +1,6 @@
 ---
 
-## 🕵️ Project 2: Steganography (Data Hiding)
+## Project 2: Steganography (Data Hiding)
 
 * **File:** `Steganography-Report.pdf`
 * **Tool Used:** `steghide` on Kali Linux
